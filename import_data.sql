@@ -46,3 +46,7 @@ COPY order_items
 FROM '/home/nabeel/Github/olist_database_analysis/olist_data/olist_order_items_dataset.csv'
 WITH (FORMAT CSV, HEADER);
 
+/* importing product translation */
+COPY product_translation
+FROM '/home/nabeel/Github/olist_database_analysis/olist_data/product_category_name_translation.csv'
+WITH (FORMAT CSV, HEADER);

@@ -1,6 +1,4 @@
 
-/* Create DATABASE olist */
-CREATE DATABASE olist;
 
 /* Creating geolocation table */
 CREATE TABLE geo_location(
@@ -96,7 +94,11 @@ CREATE TABLE order_items(
 );
 
 
-
+/* Creating product_translation table */
+CREATE TABLE product_translation(
+    category varchar(50),
+    category_translation varchar(50)
+);
 
 
 
