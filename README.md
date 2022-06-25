@@ -23,7 +23,7 @@ about the orders volume, delivery time, valuable customer markets, important sel
 |   Products| [md](Product_analysis/)  |[notebook](Product_analysis/Product_Analysis.ipynb)|
 |   Miscelleaneous| [md](Miscellaneous/)  |[notebook](Miscellaneous/Miscellaneous.ipynb)   |
 
-### **How to install the database**
+### **How to use the database**
 
 1. Install postgreSQL and pgAdmin4
 2. Clone the repo or download the zipfile and extract it.
