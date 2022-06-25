@@ -10,7 +10,7 @@ about orders associated with customers sellers their payment methods products an
 
 *The dataset is available at Kaggle on this [link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=product_category_name_translation.csv)*
 
-*In this project, we perform an in-depth `analysis` of customer sellers and their orders and gain some critical `insights`
+*In this project, first we construct database from scratch then we perform an in-depth `analysis` of customer sellers and their orders and gain some critical `insights`
 about the orders volume, delivery time, valuable customer markets, important sellers by revenue, etc using `PostgreSQL`*
 
 *We perform analysis on four major categories of data provided by Olist*
