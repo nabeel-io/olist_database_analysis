@@ -1,3 +1,5 @@
+## **Miscellaneous**
+
 ```python
 %load_ext sql
 import os
