@@ -1,6 +1,6 @@
 # **Olist Database Analysis**
 
-![entity_olist](olist_entity.png)
+![entity_olist](olist_entity.svg)
 
 ### **About**
 
