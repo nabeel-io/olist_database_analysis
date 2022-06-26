@@ -1,4 +1,4 @@
-## **Customer Analysis*****
+## **Customer Analysis****
 
 ```python
 %load_ext sql
